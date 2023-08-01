@@ -1,4 +1,4 @@
-function decimalToBinary(num) {
+function decimalToBinary(decimal) {
   //Write you code here
   return decimal.toString(2);
 }
